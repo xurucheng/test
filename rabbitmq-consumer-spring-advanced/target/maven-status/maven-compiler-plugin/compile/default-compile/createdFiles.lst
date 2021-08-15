@@ -1,0 +1,6 @@
+com\baiqi\listener\QosListener.class
+com\baiqi\listener\Test.class
+com\baiqi\listener\OrderListener.class
+com\baiqi\listener\AckListener.class
+com\baiqi\listener\DlxListener.class
+com\baiqi\rabbitmq\NewsConsumer.class
